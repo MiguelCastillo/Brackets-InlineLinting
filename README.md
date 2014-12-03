@@ -1,0 +1,4 @@
+InlineLinters
+=============
+
+Interactive linting
